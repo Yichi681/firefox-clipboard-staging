@@ -2,9 +2,6 @@
 
 A beautiful, lightweight, and powerful clipboard manager Chrome/Edge/Firefox extension that lets you collect multiple clipboard items (text, images, files) and paste them individually or all together as rich content.
 
-![Screenshot preview](https://via.placeholder.com/800x600?text=Clipboard+Hub+Screenshot)  
-*(Modern glassmorphism UI with floating action button and smooth drawer)*
-
 ## Features
 
 - **Multi-item clipboard history** – Capture text, images, and files in one session.
